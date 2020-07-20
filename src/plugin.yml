@@ -1,0 +1,29 @@
+name: Hi
+main: way24.way24
+version: 1.0
+api-version: 1.13
+
+commands:
+  reg:
+  l:
+  color:
+  test:
+  m:
+  tell:
+  spawn:
+  mine:
+  is:
+  setup:
+  to:
+  rest:
+  money:
+  shop:
+  info:
+  biome:
+  reloads:
+  mineregen:
+  miniblock:
+  setpose:
+  stat:
+  fr:
+  pass:
